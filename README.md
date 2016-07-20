@@ -1,2 +1,5 @@
 # hello-world
-Making a new repository
+
+Hello earthlings!
+
+This is the my first edit of this branch. Blah blah! It's da best.
